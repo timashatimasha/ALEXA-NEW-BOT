@@ -7,13 +7,13 @@
 
 </a>
 
-![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
+![logo](file:///C:/Users/Timasha/Documents/bot%20alive%20logos/WhatsApp%20Image%202022-02-04%20at%2018.44.24.jpeg)
 <h1 align="center"><b>QUEEN ALEXA (ᴠɪᴘ) </b></h1>
 
 </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Queen+Alexa&font=Fira%20Code&center=true&width=380&height=50">
 
 </a>
 <p align="center">
