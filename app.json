@@ -1,14 +1,13 @@
 {
-    "name": "Amazone Alexa V8",
+    "name": "QUEEN ALEXA V8",
     "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
-    "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
-    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
+    "repository": "https://chat.whatsapp.com/ESgq5ThSobg4ZGD4pLAGf4",
+    "website":   "sites.google.com/view/queen-alexa-official/suport-groupanathoer-group",
+    "success_url": "https://chat.whatsapp.com/ESgq5ThSobg4ZGD4pLAGf4",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "QUEEN ALEXA_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
@@ -19,7 +18,7 @@
         "BIO": {
             "description": "Change Your live Bio | ඔබේ About එකට අවශ්‍ය දෙයක් මෙහි ලියන්න",
             "required": false,
-            "value": "ɪ ᴀᵐ ⁿᵒᵗ ᵖᵉʳᶠᵉᶜᵗ ʙᵘᵗ ɪ  ᴀᵐ ʟⁱᵐⁱᵗᵉᵈ ᴇᵈⁱᵗⁱᵒⁿ👀🔥"
+            "value": "I AM M.R TIMA QUEEN ALEXA BOT DEVELOPER👀🔥"
         },
         "AUTO_STICKER": {
             "description": "If you likes Auto Sticker you can write 'true'. Otherwise false",
@@ -29,7 +28,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "👩‍🦰QUEEN ALEXA"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
@@ -142,7 +141,7 @@
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "EMOJI_COMMAND": {
             "description": "You can change Command list emojis.)",
@@ -165,9 +164,9 @@
             "value": "false"
         },
         "PANEL_COMMAND": {
-            "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
+            "description": "මේක වෙනස් කරන්න එපා.බොට්ගේ මෙනුව වැඩ නැති වෙයි..",
             "required": true,
-            "value": "alexa"
+            "value": "tima"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
@@ -236,7 +235,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+            "value":Qᵤₑₑₙ ₐₗₑₓₐ ᵢₛ ₂₀₂₂ ₙₑW  Bₒₜ Dₑᵥₑₗₒₚₑᵣ ₘ.ᵣ ₜᵢₘₐ!!"
         }
     },
     "addons": [{
